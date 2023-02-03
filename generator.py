@@ -14,7 +14,7 @@ def save_file(filepath, content):
         outfile.write(content)
 
 
-openai.api_key = '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'
+openai.api_key = open_file('openaikey.txt')
 
 sexs = [
     'male',
