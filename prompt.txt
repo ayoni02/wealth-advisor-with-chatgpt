@@ -1,0 +1,12 @@
+<<UUID>>
+imagine a person with the following financial situation;
+
+sex = <<SEX>>
+salary = <<SALARY>>
+returns from investment = <<RETURNS>>
+rent/month = <<RENT>>
+monthly expenses = <<EXPENSES>>
+savings = <<SAVINGS>>
+financial goals = <<GOALS>>
+
+give good comprehensive financial advice to such a person
