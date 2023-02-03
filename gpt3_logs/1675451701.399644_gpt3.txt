@@ -1,0 +1,16 @@
+7702bb33-bc21-42e1-9b5b-01f122ffa52a
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+due to the high rent and monthly expenses, it is difficult to save money. The best financial advice for this person would be to try and increase their income, whether through promotions or finding a higher paying job. Another suggestion would be to invest in lower risk ventures in order to try and increase their savings. Finally, this person should create a budget in order to get a better idea of where their money is going each month and find areas where they can cut back on expenses.

@@ -1,0 +1,16 @@
+d0e26c5e-2881-442b-ab6e-d3f6bef8b264
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The most important thing for this person to do is to create a budget and stick to it. This will help her to keep track of her monthly expenses and make sure that she is not overspending. She should also try to save as much money as possible each month so that she can build up her savings and reach her financial goals.

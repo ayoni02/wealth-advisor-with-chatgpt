@@ -1,0 +1,16 @@
+0c0ec06c-710b-4a3d-95f8-305285230019
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 2000
+monthly expenses = 500
+savings = 0
+financial goals = emergency
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The best financial advice for someone in this situation would be to first focus on building up their emergency fund. This person should aim to save up at least 3-6 months' worth of living expenses so that they are prepared for any unexpected financial setbacks. Once their emergency fund is established, they can then focus on other financial goals, such as investing for the future and paying down any debts they may have.

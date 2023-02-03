@@ -1,0 +1,16 @@
+65bfb34f-aed9-49cb-be09-b12a504a2911
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+First, the person should make a budget to see where their money is going each month. This will help them to find areas where they can save money. Next, they should start investing their money in order to get returns from their investment. Lastly, they should make a financial goal for their money.

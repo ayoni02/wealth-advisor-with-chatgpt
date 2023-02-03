@@ -1,0 +1,16 @@
+7ee28fb0-8703-4002-a3c0-de0dbe7fce6a
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a female with a salary of $10,000 and no returns from investments, you should focus on paying off your debts. Try to cut down on your monthly expenses by $500 and put that money towards your debts. You may also want to consider getting a part-time job to help pay off your debts faster. Once your debts are paid off, you can start saving for your other financial goals.

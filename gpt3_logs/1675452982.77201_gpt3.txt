@@ -1,0 +1,16 @@
+c42cb023-fbba-41d1-a09f-a1b79d3a45cc
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The most important thing for this person to do is to start saving. Even though their salary is low, they need to save as much money as possible each month. They should also look into ways to increase their income, either through earning more money or throughinvesting. They should also be mindful of their monthly expenses and try to cut down where possible. Finally, they should develop financial goals and create a plan to achieve them.

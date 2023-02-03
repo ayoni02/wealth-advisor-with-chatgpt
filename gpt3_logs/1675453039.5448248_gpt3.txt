@@ -1,0 +1,16 @@
+9e8dc7b7-cdc6-4f42-a9f4-a3c6b881ed72
+imagine a person with the following financial situation;
+
+sex = female
+salary = 40000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+A good financial advisor would tell this person to focus on paying off her debts as quickly as possible. She should try to increase her income by finding a higher paying job or negotiating a raise at her current job. She should also cut back on her monthly expenses by finding ways to save money on her regular expenses. She should also try to invest her money in a way that will generate a return, such as in a stocks or mutual funds.

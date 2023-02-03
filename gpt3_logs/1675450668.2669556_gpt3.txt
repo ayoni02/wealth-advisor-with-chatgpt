@@ -1,0 +1,16 @@
+9518ce1a-7496-4c45-b629-527ab21316e2
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 9000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+This person's first step should be to save up at least three months' worth of living expenses in case of emergency. Once they have done that, they can focus on their financial goals. If they want to save for education, they should look into student loans and scholarships. They should also try to live as frugally as possible and invest any extra money they have.

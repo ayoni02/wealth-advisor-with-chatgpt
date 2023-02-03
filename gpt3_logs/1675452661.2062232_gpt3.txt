@@ -1,0 +1,16 @@
+da11d148-244a-4654-8266-20c027a4eb72
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 9000
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+This person is in a difficult financial situation. She is bringing in a salary of $3,000 per month, but her rent is $9,000 per month. Her monthly expenses are also $500, which leaves her with very little money to save each month. This person's financial goals should be to focus on reducing her monthly expenses and increasing her savings. She may also want to consider finding a higher paying job or investing in a business.

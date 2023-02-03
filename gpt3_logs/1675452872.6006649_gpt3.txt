@@ -1,0 +1,18 @@
+6a776b9c-1108-4dee-bb83-1f857115e21e
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = emergency
+
+give good comprehensive financial advice to such a person
+
+==========
+
+:
+
+There are a few things that this person could do in order to improve their financial situation. One option would be to invest some of their money into a higher-yielding investment, such as a stock portfolio. Another option would be to try to reduce their monthly expenses by cutting back on unnecessary expenses. Finally, this person could try to increase their savings by setting aside a certain amount of money each month into a savings account.

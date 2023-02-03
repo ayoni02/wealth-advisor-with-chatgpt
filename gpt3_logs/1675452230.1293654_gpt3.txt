@@ -1,0 +1,24 @@
+59f34bc5-e83e-445d-8ed2-05424afc35a2
+imagine a person with the following financial situation;
+
+sex = female
+salary = 20000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person would like to save money: 
+
+1. One of the best ways to save money is to set up a budget and stick to it. Determine how much you need to spend each month on essentials, and then make sure you do not spend more than that. 
+
+2. Another great way to save money is to cut back on unnecessary expenses. If you find that you are spending a lot of money on non-essentials, see if there are ways to reduce those expenses. 
+
+3. Investing is also a great way to save money. Consider investing in a 401k or other retirement account. This will allow you to save money for the future while also getting tax breaks. 
+
+4. Finally, make sure you have a savings account that you can put money into each month. This will help you create a cushion in case of unexpected expenses or financial hardships.

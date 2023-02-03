@@ -1,0 +1,16 @@
+5832f917-eeb7-4362-9ca9-cb4ed5bdebfd
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+This person should save at least 10% of their salary each month. They should also look into ways to increase their income, either by finding a higher paying job or earning additional income through investments. This person should also make a budget and track their monthly expenses.

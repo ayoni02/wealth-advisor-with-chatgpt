@@ -1,0 +1,16 @@
+31542e06-6641-4cf0-970b-ba90e5f7e9cd
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person is living in the United States, some good financial advice for them would be to try and save up at least 3-6 months worth of living expenses in case of job loss or other unexpected financial setback. Additionally, they should try to invest some of their money in order to grow their savings over time. One way to do this could be to contribute to a 401k or IRA. Finally, they should make a budget and stick to it in order to keep their monthly expenses under control.

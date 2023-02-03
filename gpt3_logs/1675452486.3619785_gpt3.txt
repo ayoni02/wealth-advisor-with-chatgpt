@@ -1,0 +1,26 @@
+351972c8-1456-4f8e-8eff-4498777fa732
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Save
+
+The first thing you need to do is save. You should create a budget and make sure you are automatically transferring a fixed percentage of your salary into savings. This will help you make headway on your financial goals.
+
+Invest
+
+Even though you have not seen returns from investments in the past, it is still important to invest for the future. You should consider using a robo-advisor to help you get started with investing.
+
+Education
+
+Your financial goal is to save for education. You should consider community college as a cheaper option for your education. You should also look into scholarship and grant opportunities. You can also start a savings plan specifically for your education.

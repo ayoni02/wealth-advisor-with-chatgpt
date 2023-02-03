@@ -1,0 +1,16 @@
+ee8c160c-0d74-440a-8eab-e04725d38ed3
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 2000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming that this person would like to purchase a home in the near future, some good financial advice for them would be to start saving as much money as possible each month. One way to do this would be to set up a budget and track their spending so that they are aware of where their money is going each month. Additionally, this person should try to increase their income by either getting a raise at their current job or finding a higher paying job. Another financial goal for this person could be to start investing their money so that they can earn returns on their investment and grow their savings.

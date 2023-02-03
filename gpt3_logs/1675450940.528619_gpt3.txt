@@ -1,0 +1,18 @@
+af6c74ee-493b-4823-ae39-d2da383ac56b
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+:
+
+In order to reach your financial goals, you will need to save as much money as possible each month. Try to cutting back on your monthly expenses by eliminating unnecessary luxuries. You may also want to consider investment options that can offer you a higher return on your savings.

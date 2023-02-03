@@ -1,0 +1,18 @@
+c026a01b-3bf5-4957-bac3-813792e9a3b5
+imagine a person with the following financial situation;
+
+sex = male
+salary = 40000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+It is always a good idea to save up for large purchases, rather than taking on debt in the form of a loan. In this case, the best financi
+al advice would be to save up for a car over a period of time, rather than buying one outright. This will help to keep the person's
+monthly expenses low, and will also allow them to build up a savings cushion in case of any unexpected financial emergencies.

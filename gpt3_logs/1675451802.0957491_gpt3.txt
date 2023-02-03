@@ -1,0 +1,16 @@
+cb947967-4fec-442a-b120-c64b1de44784
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 9000
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The first and most important piece of advice would be to develop a budget and stick to it. This will be difficult with rent taking up such a large chunk of the person's income, but it is important to be mindful of all expenses in order to make the most of what is earned. Another key piece of advice would be to start saving as soon as possible. Even if it is just a small amount each month, it is important to begin building up a savings to reach financial goals. Finally, it may be helpful to consult with a financial advisor to get more specific and tailored advice.

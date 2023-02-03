@@ -1,0 +1,16 @@
+6fecd290-1a59-46e0-a701-5e9e52303e25
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person is living paycheck to paycheck, my advice would be to start by creating a budget. Begin by factoring in all monthly income and expenses, including rent, food, transportation, utilities, and debt payments. Once all monthly expenses are accounted for, this person should have a better idea of how much money they have left over each month. From there, I would advise setting aside money each month to save up for financial goals, like buying a car. This person should also consider investing in a retirement account, like a 401k or IRA, to begin building long-term wealth.

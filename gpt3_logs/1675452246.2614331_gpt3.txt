@@ -1,0 +1,16 @@
+e2455d94-c55d-49ef-9958-d20135a7587e
+imagine a person with the following financial situation;
+
+sex = female
+salary = 20000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The best financial advice for this person would be to invest in a diversified portfolio of assets, including stocks, bonds, and real estate. She should also try to boost her savings by contributing to a 401k or other retirement account. she should aim to keep her monthly expenses low, and focus on financial goals.

@@ -1,0 +1,16 @@
+6e06b27e-6a90-4e01-8483-68aa22687693
+imagine a person with the following financial situation;
+
+sex = male
+salary = 40000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The person should save as much money as possible each month in order to reach their financial goal of saving for education. They should invest their money wisely in order to get the best return on investment. They should also try to reduce their monthly expenses by cutting back on unnecessary expenses.

@@ -1,0 +1,18 @@
+d82c414a-72a2-4d28-812d-b37d45824a52
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+.
+
+Given the information provided, it is advisable for the person to focus on saving for their educational goals. They may want to consider ways to reduce their monthly expenses in order to increase the amount they are able to save each month. Additionally, they may want to explore different investment opportunities in order to try to generate additional income.

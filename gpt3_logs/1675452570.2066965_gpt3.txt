@@ -1,0 +1,22 @@
+6440be21-9279-481a-9c07-300fa99716fb
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming the individual's financial goal is to purchase a home, the following financial advice can be provided: 
+
+1. aggressively save for a down payment - the individual should aim to save at least 20% of the home's value for a down payment in order to avoid private mortgage insurance (PMI) 
+2. invest in a higher yielding savings account or mutual fund - by doing this, the individual can earn more on their savings and reach their goal more quickly 
+3. create a budget and stick to it - knowing where all of their money is going will help the individual to save more effectively 
+4. research various mortgage options - there are a number of different mortgage products available and it's important to find the one that best suits the individual's needs 
+5. stay disciplined - it can be easy to overspend when working towards a large financial goal like purchasing a home, but it's important to remain disciplined in order to reach the goal as quickly as possible

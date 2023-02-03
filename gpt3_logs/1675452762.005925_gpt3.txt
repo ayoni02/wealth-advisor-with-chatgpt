@@ -1,0 +1,16 @@
+3eb4c8bf-bf11-45df-b1d9-b8269c8916aa
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = vacation
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The best financial advice for this person would be to set up a budget and track their expenses. This will help them to see where their money is going and where they can cut back. They should also save up for their financial goal, whether it be a vacation or something else.

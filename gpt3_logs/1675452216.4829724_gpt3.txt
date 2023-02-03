@@ -1,0 +1,16 @@
+efc54124-059c-46e8-b77f-3e0026677a77
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Without knowing more about the person's financial situation, it is difficult to provide comprehensive financial advice. However, some general tips that could be given are to invest in a diversified mix of assets, to make sure to have an emergency fund that can cover at least six months of living expenses, and to try to keep expenses low in order to save more money.

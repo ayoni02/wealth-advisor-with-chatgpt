@@ -1,0 +1,16 @@
+806be4eb-7982-4596-8eb6-d9c66ddd2b8a
+imagine a person with the following financial situation;
+
+sex = female
+salary = 40000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person has no debts, the best financial advice would be to focus on saving and investing. The first step would be to create a budget and track all income and expenses. It is important to factor in savings goals when creating the budget. The next step would be to start investing in a retirement account and/or a brokerage account. Diversifying investments is key to mitigating risk. Finally, it is important to regularly review the budget and investment portfolio to make sure progress is being made towards financial goals.

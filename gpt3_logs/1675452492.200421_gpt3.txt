@@ -1,0 +1,16 @@
+19c18473-eada-4f07-8912-e4dd22ffae78
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The best financial advice for this person would be to save as much money as possible each month in order to reach her financial goals. She should try to reduce her monthly expenses by cutting back on unnecessary spending and increasing her income by earning more money through returns from investments.

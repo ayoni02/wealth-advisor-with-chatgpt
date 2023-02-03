@@ -1,0 +1,16 @@
+65893965-15ac-4e7e-921a-8677e6bb43c2
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the information provided, the best financial advice for this person would be to save as much money as possible each month. This could be achieved by living extremely frugally and/or getting a higher paying job. Once they have saved up a decent amount of money, they should invest it in a property so that they can start building equity.

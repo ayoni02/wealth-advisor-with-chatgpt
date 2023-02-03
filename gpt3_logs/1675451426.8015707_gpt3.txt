@@ -1,0 +1,16 @@
+99b57222-32c1-4d25-b865-b51dfa1c7e96
+imagine a person with the following financial situation;
+
+sex = female
+salary = 20000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Start by creating a budget that factors in your income, rent, monthly expenses, andsavings goals. Make sure to include retirement savings in your budget as well! Try to find ways to reduce your monthly expenses so that you can increase the amount you are able to save each month. One way to do this is to cook at home more often instead of eating out. Another way to save money is to cut back on unnecessary expenses like entertainment and shopping. Investing your money is also a good way to grow your wealth over time. Consider investing in a mix of stocks, bonds, and other investments to diversify your portfolio and reduce your risk.

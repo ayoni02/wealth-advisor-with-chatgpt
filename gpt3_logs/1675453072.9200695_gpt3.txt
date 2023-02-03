@@ -1,0 +1,16 @@
+45765308-46d9-43ca-a035-dec026ab9b66
+imagine a person with the following financial situation;
+
+sex = male
+salary = 40000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a man with a salary of 40000, returns from your investment of 0, and rent of 4000, your monthly expenses should be 500. You should also have savings of 0 to put towards your financial goals, which in this case are debts. A good comprehensive financial advice for you would be to focus on creating a budget and sticking to it. Try to find ways to reduce your monthly expenses so that you can put more money towards your debt each month. You may also want to consider looking into debt consolidation or a debt management plan to help you get your debts under control.

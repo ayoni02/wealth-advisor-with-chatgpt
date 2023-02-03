@@ -1,0 +1,16 @@
+4c223bd0-16fc-42b4-bb51-2ccf1b2fdb29
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = emergency
+
+give good comprehensive financial advice to such a person
+
+==========
+
+First, the person should calculate her net worth by subtracting her monthly expenses from her income. Next, she should develop a budget to help her save money each month. She should also create a savings plan to help her reach her financial goals. Finally, she should invest in a diversified portfolio of assets to help grow her wealth over time.

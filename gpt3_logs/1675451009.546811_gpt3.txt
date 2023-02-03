@@ -1,0 +1,20 @@
+cbc84310-23a7-4b05-b033-65c61d21363a
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = vacation
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming the person is looking for financial advice in order to achieve a specific goal, the first step is to calculate how much money is needed for the goal. In this case, the goal is a vacation, so the person would need to find out how much the vacation would cost.
+
+Next, the person would need to create a budget detailing all income and expenses. This would help to identify how much money could be saved each month. Based on the budget, the person may need to adjust their spending in order to save more money.
+
+Once the amount of money needed for the vacation is saved, the person can then start to invest that money. This will help to grow the savings so that the person can achieve their financial goal.

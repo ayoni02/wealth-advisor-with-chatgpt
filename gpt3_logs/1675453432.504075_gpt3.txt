@@ -1,0 +1,20 @@
+659c7116-a5bf-4e6c-97f6-d17cc2d02978
+imagine a person with the following financial situation;
+
+sex = female
+salary = 40000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+First, the person should save up at least 3-6 months' worth of living expenses in an emergency fund. This will help cover unexpected costs in case of job loss or other unexpected financial hardships.
+
+Next, the person should focus on building up their investment portfolio. A mix of stocks, bonds, and other investments can provide stability and growth over time.
+
+Finally, the person should create a budget and stick to it. This will help them keep track of their monthly expenses and make sure they are not overspending.

@@ -1,0 +1,16 @@
+a981fa77-a594-42a5-a064-b1ab3f6399fb
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = vacation
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the information provided, the best financial advice for this person would be to first focus on building up their savings. They should consider creating a budget and sticking to it in order to help curb their expenses and put more money away into savings. They may also want to consider looking into ways to earn additional income, whether through earning more at their current job or finding supplemental income through side hustles. Once they have built up their savings, they can then start to focus on other financial goals, such as taking a vacation.

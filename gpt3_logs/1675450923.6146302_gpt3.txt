@@ -1,0 +1,18 @@
+58148c35-ed0c-44df-95b3-ff056c8d46a5
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person is single:
+
+The first step would be to try and increase her salary if possible. If she is unable to do so, she should then focus on cutting her monthly expenses as much as possible. She should also try to invest her money so that she can get returns from her investments. If she is able to save up enough money, she may be able to purchase a car.

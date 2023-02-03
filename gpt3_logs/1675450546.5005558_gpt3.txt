@@ -1,0 +1,16 @@
+572a3db6-2fcd-4b51-89f8-2395868ad77a
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Some good financial advice for this person would be to invest in a retirement plan, such as a 401k or an IRA. They should also try to save as much money as possible each month, even if it is just a little bit. They should also look into ways to reduce their monthly expenses, such as cutting back on unnecessary spending or finding ways to save on their rent.

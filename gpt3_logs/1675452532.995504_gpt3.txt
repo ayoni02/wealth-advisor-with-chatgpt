@@ -1,0 +1,20 @@
+5dd697e9-eaf6-498c-b3f2-8b160afc7fa2
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming you would like financial advice for this person: 
+
+ male, salary 30000, radiating imagine 0, rent / month 3000, monthly spend 500, nest egg 0, 
+
+First, this person should try to contribute to a 401k or other retirement plan if their employer offers one. If not, they should try to open an IRA and contribute to that. They should also try to save at least 10% of their salary each month. If they can do this, they should be on track to reach their financial goal of owning a home.

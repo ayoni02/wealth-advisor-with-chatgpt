@@ -1,0 +1,16 @@
+9ba72942-ee3f-4aab-aba1-bd8a1bedc588
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Some good financial advice for this person would be to invest in a 401k or Roth IRA, to try and save at least 10% of their salary each month, and to create a budget to track their monthly expenses. This person should also focus on their financial goal of buying a home, and try to save as much money as possible each month to reach this goal.

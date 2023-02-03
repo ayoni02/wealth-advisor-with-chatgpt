@@ -1,0 +1,1 @@
+If you are a woman with a salary of $40000, return on investment of 0%, monthly rent of $2000, and monthly expenses of $500, your financial goal should be to pay off your debts. You should save your money each month and put it towards your debts. Once your debts are paid off, you can start to save for other goals, such as retirement.

@@ -1,0 +1,16 @@
+694890df-6900-43f4-b69b-b988cd31b485
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the person's financial situation and goals, it would be advisable for them to focus on increasing their income and saving as much money as possible. One way to increase income would be to invest in a business. Another way to increase income would be to look for a higher paying job. To save money, the person could try to reduce their monthly expenses by cutting back on unnecessary spending. They could also try to put some of their salary into savings each month.

@@ -1,0 +1,22 @@
+8cebdb67-f260-4511-8b19-83878234c9d7
+imagine a person with the following financial situation;
+
+sex = female
+salary = 20000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+-Start by looking at your budget and expenses to see where you can cut back in order to save more money.
+
+-Create a financial goal for yourself and make a plan to save up for it.
+
+- Invest in a diversified mix of assets including stocks, bonds, and cash so that you can earn returns and grow your savings.
+
+- Consider taking on a side hustle to earn extra income and accelerate your savings goals.

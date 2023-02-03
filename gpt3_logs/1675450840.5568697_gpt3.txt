@@ -1,0 +1,16 @@
+96a9962d-4e9f-4def-8ec3-66757ffc5a3a
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming the person's goal is to start a business, the most important thing for them to do is save as much money as possible. One way to do this is to cut back on their monthly expenses by eliminating unnecessary costs. Another way to save is to invest their money wisely so that they can earn returns on their investment. Finally, the person should develop a financial plan that outlines their goals and how they plan to achieve them.

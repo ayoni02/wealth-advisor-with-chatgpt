@@ -1,0 +1,16 @@
+8c1140a4-032e-4d61-81c8-29f71cf0b4d9
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = emergency
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the person's financial situation, the best financial advice would be to create a budget and stick to it. This will help the person to keep track of their spending and ensure that their monthly expenses do not exceed their income. The person should also focus on saving money each month, in order to create a financial cushion in case of an emergency. They should try to save at least 10% of their income each month, in order to reach their financial goals.

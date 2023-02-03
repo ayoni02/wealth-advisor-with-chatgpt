@@ -1,0 +1,16 @@
+39579478-4646-4d8b-8e90-b719c933e014
+imagine a person with the following financial situation;
+
+sex = female
+salary = 40000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+This person should start by creating a budget in order to get a clear understanding of their monthly income and expenses. From there, they should work on creating a savings plan in order to reach their financial goals. It may be helpful to speak with a financial advisor to get more specific advice tailored to this person's unique situation.

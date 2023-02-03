@@ -1,0 +1,20 @@
+0418ad0d-b393-43f2-a209-210a013b4781
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Start by contributing to a retirement account such as a 401k or IRA. You should contribute enough to get the full employer match, if offered. If not, contribute 10-15% of your salary.
+
+Next, focus on building up an emergency fund. This should be 3-6 months of living expenses. Once you have saved up this much, you can start investing in a diversified portfolio of stocks and bonds.
+
+Finally, make sure you are staying on top of your monthly expenses. Try to cut back on unnecessary expenses and put the extra money towards your financial goals.

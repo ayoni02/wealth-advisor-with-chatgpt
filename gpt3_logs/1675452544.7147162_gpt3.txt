@@ -1,0 +1,20 @@
+557a8191-a9f4-4792-92bb-5f019bd85607
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person wants comprehensive financial advice, here are a few things that could be recommended:
+
+- max out savings: this person should be saving as much as possible each month in order to reach their financial goals
+- invest: this person should be investing their money in order to grow their wealth over time
+- be mindful of expenses: this person should be mindful of their monthly expenses in order to keep them in line with their income

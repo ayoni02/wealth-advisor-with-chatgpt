@@ -13,7 +13,8 @@ def save_file(filepath, content):
     with open(filepath, 'w', encoding='utf-8') as outfile:
         outfile.write(content)
 
-openai.api_key = open_file('openaikey.txt')
+
+openai.api_key = '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'
 
 sexs = [
     'male',

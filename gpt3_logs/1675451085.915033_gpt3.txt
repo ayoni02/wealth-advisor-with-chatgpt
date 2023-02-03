@@ -1,0 +1,16 @@
+b9423d68-2d28-437d-b92e-ad7986db487a
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = emergency
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person is not married, the first piece of advice would be to make sure that she is contributing at least the minimum amount to her 401k or other retirement account. If her employer offers a match, she should be contributing enough to take advantage of that. If she has debt, she should focus on paying off her debt, preferably using the debt snowball method. Once she is out of debt, she should start saving at least 3-6 months' worth of living expenses in an emergency fund. Once she has an emergency fund, she should focus on saving for her other financial goals.

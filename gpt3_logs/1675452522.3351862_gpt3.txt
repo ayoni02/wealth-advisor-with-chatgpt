@@ -1,0 +1,16 @@
+bfa04eea-ddaa-4364-b15e-cb025052d12e
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 2000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The person should focus on saving as much money as possible each month in order to reach their goal of owning a home. The person should Invest their money wisely so that they can receive returns from their investment and grow their savings. The person should also focus on reducing their monthly expenses so that they can save even more money each month.

@@ -1,0 +1,16 @@
+12c6df32-d83e-4f28-a196-581c239f19c1
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person is living in the United States, some good financial advice for him would be to try to save up at least 3-6 months' worth of living expenses in case of emergencies, invest in a mix of stocks and bonds to get the best return on his investment, and try to pay off any high-interest debt as soon as possible. He should also try to take advantage of any employer-sponsored retirement savings plans, such as a 401(k), to get the most bang for his buck.

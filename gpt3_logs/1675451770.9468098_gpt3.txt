@@ -1,0 +1,16 @@
+1cc85074-9bc9-4dd1-8a55-a543a43a9020
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a male with a salary of 20000 and no returns from investment, your rent would be 7000 and your monthly expenses would be 500. You would have 0 in savings and your financial goals would be to start a business. A good financial plan for you would be to start saving as much as possible each month so that you can eventually start your own business. You should also try to invest money in a business so that you can get returns from your investment.

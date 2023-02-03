@@ -1,0 +1,16 @@
+c1103f26-90cb-4930-a45e-73545c57408b
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The person in question should save as much money as possible each month in order to reach their financial goal of education. They should also invest their money in order to get returns and grow their savings. One way to save money each month is to create a budget and stick to it. Another way to save money is to get rid of unnecessary expenses. For example, the person could cutting back on their monthly expenses by eating out less or reducing their monthly phone bill.

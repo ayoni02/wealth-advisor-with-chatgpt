@@ -1,0 +1,16 @@
+0c71f0b0-a1e1-447c-8d5d-76943bfddfc7
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a male with a salary of $30000 and no investment returns, rent of $4000 monthly, and expenses of $500 monthly, your goal should be to pay off your debts. You can do this by creating a budget and sticking to it. Try to find ways to reduce your expenses and/or increase your income. You may also want to consider debt consolidation or credit counseling.

@@ -1,0 +1,16 @@
+58644c8a-2290-4d66-87aa-b7a3348d12a1
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = vacation
+
+give good comprehensive financial advice to such a person
+
+==========
+
+It is important to develop a budget and determine where your money is going each month. Try to cut back on expenses in order to have more money to put towards your financial goals. Investing your money can help you to reach your goals more quickly, but be sure to research different options and speak with a financial advisor to determine what is best for you.

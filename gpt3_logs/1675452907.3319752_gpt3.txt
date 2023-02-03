@@ -1,0 +1,16 @@
+62f2769c-daeb-4504-96cb-af99b274b51a
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 9000
+monthly expenses = 500
+savings = 0
+financial goals = emergency
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the person's financial situation, it is advisable for him to focus on growing his savings so that he can have a cushion to cover unexpected costs in the future. He should prioritize his savings goals over his other financial goals and focus on building up his savings as much as possible. To do this, he may need to cut back on his monthly expenses and put more money towards his savings each month. He should also look into ways to boost his income, such as finding a better-paying job or earning additional income through investments.

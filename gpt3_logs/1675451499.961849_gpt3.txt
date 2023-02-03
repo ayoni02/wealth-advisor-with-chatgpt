@@ -1,0 +1,18 @@
+440b99d7-c168-4290-b06a-78d34cfd51e8
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming you would like advice on how to save for retirement: 
+
+If you are a male with a salary of $20,000 and no returns from investment, you should consider saving up to 8% of your salary annually. This will give you a savings goal of $1,600 annually, or $133 per month. Given that you have rent of $800 per month and monthly expenses of $500, you may need to adjust your lifestyle in order to save the recommended amount. One suggestion would be to cook more meals at home rather than eating out, which can be a significant expense. Another suggestion would be to make transportation choices that save money, such as carpooling or taking public transportation. If you are able to save the recommended amount each year, you will have a retirement fund of $48,000 after 30 years.

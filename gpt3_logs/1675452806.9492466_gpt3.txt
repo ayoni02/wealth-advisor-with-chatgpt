@@ -1,0 +1,16 @@
+2f6b3426-573d-4886-9e3e-cb87ac90cfdf
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = vacation
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the information provided, the best financial advice for this person would be to focus on saving as much money as possible each month. This can be done by cutting back on expenses and/or increasing their income. Once they have built up a decent savings, they can then start thinking about investing their money to grow their wealth.

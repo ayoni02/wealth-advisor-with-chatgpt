@@ -1,0 +1,16 @@
+97c1613b-1b98-403c-8a29-34a7e1cb7e16
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+There are a few things that this person could do in order to improve their financial situation. First, they could work on increasing their income by either finding a higher paying job or finding additional sources of income. Additionally, they could work on reducing their monthly expenses by cutting back on unnecessary expenses and/or finding ways to save money on their regular expenses. Finally, they could try to increase their returns from investments by investing in higher-yielding assets and/or diversifying their investment portfolio. By taking these steps, this person can work towards improving their financial situation.

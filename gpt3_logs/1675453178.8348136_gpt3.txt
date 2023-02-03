@@ -1,0 +1,16 @@
+87e0bb2f-77f9-415d-95d0-d2304a00fedc
+imagine a person with the following financial situation;
+
+sex = male
+salary = 40000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Firstly, the person should save as much as possible each month in order to reach their financial goal of retirement. They should try to reduce their monthly expenses by cutting back on unnecessary spending and put the extra money towards their savings. They should also look into ways to increase their income, such as getting a higher paying job or investing in a side business. Additionally, the person should try to grow their returns from investment by diversifying their investment portfolio and choosing investments with high potential returns.

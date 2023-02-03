@@ -1,0 +1,9 @@
+Sex: female
+Salary: 20000
+Returns for investment: 0
+Rent/month: 3000
+Monthly expenses: 500
+Savings: 0
+Financial goals: retirement
+
+Advice: 

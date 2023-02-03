@@ -1,0 +1,9 @@
+Sex: male
+Salary: 30000
+Returns for investment: 0
+Rent/month: 3000
+Monthly expenses: 500
+Savings: 0
+Financial goals: other
+
+Advice: 

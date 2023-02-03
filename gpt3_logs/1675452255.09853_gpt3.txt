@@ -1,0 +1,16 @@
+e8fda25d-a8c9-47b6-a6b7-9474446107a9
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 9000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Some good financial advice for someone in this situation would be to focus on building up their savings, so that they have a cushion to fall back on in case of unexpected expenses or a drop in income. It is also important to invest wisely, in order to grow their wealth over time.

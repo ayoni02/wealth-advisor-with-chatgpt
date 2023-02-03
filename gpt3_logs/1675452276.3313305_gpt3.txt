@@ -1,0 +1,16 @@
+ae1e49dc-6b53-4c6f-90e9-ea20eb052832
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 2000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The best financial advice for this person would be to focus on paying down their debts as soon as possible. This will free up more of their monthly income to save and invest, which can help them reach their financial goals in the long term. In the meantime, they should try to cut back on their monthly expenses as much as possible to free up more money to put towards their debts.

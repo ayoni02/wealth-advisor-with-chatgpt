@@ -1,0 +1,16 @@
+c3b8af18-e5fc-4d3d-ba12-3457b74fe4bd
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = emergency
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person is living in the United States, some good financial advice for them would be to make sure they have an emergency fund saved up, in case of any unexpected expenses. They should also start saving for retirement as soon as possible, even if it is just a small amount each month. Another good idea would be to invest some of their money into a high-yield savings account or a short-term CD, in order to earn some interest on their savings. Finally, they should try to keep their monthly expenses as low as possible, so that they can save more money each month.

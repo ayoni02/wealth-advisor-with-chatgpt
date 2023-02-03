@@ -1,0 +1,16 @@
+d6690f88-e642-4c8f-b0d4-62d401234ce6
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming that this person would like to retire comfortably, the best financial advice for this person would be to invest in a retirement account such as a 401k or IRA. This will allow them to save for retirement while also taking advantage of tax benefits. Additionally, they should focus on building up their savings so that they have a cushion in case of unexpected expenses. They should also be sure to keep their monthly expenses under control in order to have more money available to save and invest.

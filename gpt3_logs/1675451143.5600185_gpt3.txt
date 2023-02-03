@@ -1,0 +1,16 @@
+db5e81d8-85cf-4328-899a-500fe62a7068
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = emergency
+
+give good comprehensive financial advice to such a person
+
+==========
+
+There are a few things that this person could do in order to improve their financial situation. One suggestion would be to start saving money each month. Even if it is a small amount, it can add up over time and provide a cushion in case of an emergency. Another suggestion would be to try to invest in something that will generate some return, even if it is a small amount. This could help to offset some of the monthly expenses. Finally, it is important to have financial goals in mind in order to stay on track. For this person, an emergency fund should be a priority.

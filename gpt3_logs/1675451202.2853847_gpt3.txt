@@ -1,0 +1,16 @@
+a965a17b-fa98-4786-9b99-86ef4806e130
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+It is difficult to give good financial advice without knowing the person's financial goals. However, some general advice would be to start saving as much money as possible and to invest in a mix of different types of investments in order to diversify their risk. Additionally, the person should try to reduce their monthly expenses where possible in order to increase their savings.

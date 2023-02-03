@@ -1,0 +1,16 @@
+9f28a55b-dfe7-4e41-9ba2-d14ab3488a9b
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the information above, the best financial advice for this person would be to save as much money as possible each month. This could be done by cutting back on expenses, such as eating out or entertainment, and investing any extra money into a savings account or a long-term investment plan. This person should also focus on their financial goals, such as starting a business, and actively work towards achieving them.

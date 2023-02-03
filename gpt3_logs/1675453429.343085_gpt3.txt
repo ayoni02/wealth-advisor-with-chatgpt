@@ -1,0 +1,24 @@
+da7faf58-40b3-4b22-a385-cba9552745ec
+imagine a person with the following financial situation;
+
+sex = male
+salary = 40000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming that this person is looking for comprehensive financial advice, here are a few key points that should be addressed:
+
+1. Review current spending and cut back on any unnecessary expenses.
+
+2. Invest in a diversified mix of assets including stocks, bonds, and cash.
+
+3. Consider implementing a financial plan that includes setting aside money each month to reach specific financial goals.
+
+4. Work with a financial advisor to help make informed financial decisions.

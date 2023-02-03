@@ -1,0 +1,16 @@
+a3f648ed-465b-43cb-9702-e8c11878df39
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Based on the information given, the person's monthly expenses are high relative to their income. They should focus on cutting down their expenses and/or increasing their income. One way to do this is to invest in a less expensive car. Another way to save money is to find a cheaper place to live. The person should also focus on saving money each month so that they can reach their financial goals.

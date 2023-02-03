@@ -1,0 +1,16 @@
+fe21bf43-90a7-43b6-89d2-8743f648248a
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Save as much as possible every month. Invest in a mix of stocks and bonds. Consider saving for retirement in a 401k or Roth IRA. Live below your means and avoid unnecessary debt.

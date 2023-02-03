@@ -1,0 +1,16 @@
+99c8464f-0e36-46d5-9ce0-155bdb577b8a
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a male with a salary of $30000 and no returns from investments, your rent is $8000 per month, and your monthly expenses are $500, you may want to consider saving up to purchase a car. Try to find ways to reduce your monthly expenses so that you can save more money each month. You may also want to look into ways to increase your income so that you can save up for your car more quickly.

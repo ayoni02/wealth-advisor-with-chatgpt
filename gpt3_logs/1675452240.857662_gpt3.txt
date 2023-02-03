@@ -1,0 +1,18 @@
+542ad0c8-314b-46bd-9316-6330ebb33007
+imagine a person with the following financial situation;
+
+sex = female
+salary = 20000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming you would like advice for the person with the given financial situation: 
+
+First, the individual should assess their current financial status and make a budget. This will help them to get an idea of their current expenditure and what could be cut back in order to save money. After creating a budget, it is important to set financial goals. This could be short-term goals, such as saving for a vacation, or long-term goals, such as saving for retirement. Once goals are set, the individual can start to work on a plan to save money. This may include setting up a savings account and contributing to it regularly, investing money, and looking for ways to reduce expenses.

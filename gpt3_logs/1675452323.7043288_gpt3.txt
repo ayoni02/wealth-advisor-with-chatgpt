@@ -1,0 +1,16 @@
+592548d0-d7f5-46cb-9e3c-232b7adee000
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Some good financial advice for someone in this situation would be to cut back on their monthly expenses as much as possible, and to use their savings to pay off their debts. If they are unable to do this, they may want to consider consolidation or refinancing their debt.

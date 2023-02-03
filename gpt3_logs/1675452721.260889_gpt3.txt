@@ -1,0 +1,16 @@
+61f410b0-ce79-4091-acf3-6037ec341cb6
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The advice for this person would be to first save up for a down payment on a car. They should look into investing their money into a higher yielding investment, such as a mutual fund, to help reach their financial goals quicker. They should also try to reduce their monthly expenses by cutting back on unnecessary spending.

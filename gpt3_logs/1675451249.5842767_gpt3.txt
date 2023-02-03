@@ -1,0 +1,16 @@
+9f70056b-9799-4460-9c8a-f05fb18d68e0
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+There are a few things to consider when giving financial advice to someone with this financial situation. First, the person's salary is relatively low, so it may be difficult to save up for large financial goals. However, the person does have some money left over each month after paying for rent and expenses, so it is possible to save up if financial goals are prioritized. Another consideration is that the person's returns from investment are currently at 0%. This could mean that the person's investment strategy is not effective and needs to be changed, or that the person has not been investing for long enough to see any returns. Finally, it is important to remember that financial goals can vary greatly from person to person, so the advice given should be tailored to the individual's goals.

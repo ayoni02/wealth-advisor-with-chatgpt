@@ -1,0 +1,18 @@
+84143db0-3cfd-47ef-b93e-a44621c8cdd3
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the information provided, the best financial advice for this person would be to save as much money as possible each month. This could be done by putting money into a savings account or investing in a long-term savings plan. This person should also try to reduce their monthly expenses by cutting back on unnecessary spending.
+
+One of the best ways to save for education costs is to start saving early. This person could open a 529 plan account, which is a tax-advantaged account specifically for educational expenses. Another option would be to invest in a Roth IRA, which is a retirement savings account that can also be used for educational expenses.

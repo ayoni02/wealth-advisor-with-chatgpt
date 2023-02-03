@@ -1,0 +1,16 @@
+1648f876-9ccb-4dc0-834e-49ec996f77ac
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 9000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Based on the information given, it is recommended that the individual save up for a down payment on a house. She should aim to have at least 10% of the total cost of the house saved up as a down payment. In addition, she should try to keep her monthly expenses low in order to have more money available to put towards her down payment. She should also try to invest her money in order to get returns that can help her reach her financial goals.

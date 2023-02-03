@@ -1,0 +1,20 @@
+25dd0f88-d5ce-4a38-985f-f7b0c85f42f7
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The first bit of financial advice for this person would be to make sure that they are saving enough money each month. typically, you want to save at least 10% of your income. in this person's case, they should be saving at least $300 each month.
+
+Another piece of financial advice would be to invest some of their money. even if the returns are not great, it is important to start investing early so that the money has time to grow.
+
+Finally, this person should make sure that they have a retirement plan in place. they should be contributing to a 401k or other retirement account each month.

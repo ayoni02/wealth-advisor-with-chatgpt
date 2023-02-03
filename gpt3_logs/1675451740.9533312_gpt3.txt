@@ -1,0 +1,16 @@
+b5dd216a-f63b-4e2a-b1a9-c1558cfdb699
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 2000
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Ideally, the person should be saving at least 10% of their salary each month. However, since they have some monthly expenses, they may want to save closer to 20% of their salary. They should also try to invest their money in order to earn returns. A good financial goal for this person would be to save up enough money to start their own business.

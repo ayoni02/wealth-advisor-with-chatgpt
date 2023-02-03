@@ -1,0 +1,16 @@
+c81f1a73-6d9c-4617-bc08-707ec3d8be5c
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = vacation
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the information provided, the best financial advice for this person would be to save as much money as possible each month in order to reach their goal of taking a vacation. One way to do this would be to put away at least half of their monthly salary into savings, and to be mindful of their expenses so that they do not overspend. Another suggestion would be to invest some of their money in order to try to generate returns that can help offset the costs of their vacation.

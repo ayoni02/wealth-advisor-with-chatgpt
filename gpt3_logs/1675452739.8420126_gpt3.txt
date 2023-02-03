@@ -1,0 +1,16 @@
+93608662-d318-47c3-b294-d52c6c7adbcb
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a woman with a salary of $30000, you should invest in a mutual fund or a stocks and rental property. You should also have an emergency fund of at least six months of living expenses. Your monthly expenses should be around $500, and you should have a savings goal of $10,000 for a car.

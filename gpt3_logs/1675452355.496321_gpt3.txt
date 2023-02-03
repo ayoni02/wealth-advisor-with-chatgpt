@@ -1,0 +1,16 @@
+4d9d8659-860c-430b-98f7-c80b296cec71
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 2000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+A good comprehensive financial advice to such a person would be to invest in a retirement savings plan, such as a 401k or an IRA. She should also aim to save at least 3-6 months of living expenses in an emergency fund. Additionally, she should invest in a diversified mix of stocks, bonds, and other investments to help grow her wealth over time.

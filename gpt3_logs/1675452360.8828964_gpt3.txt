@@ -1,0 +1,16 @@
+120f6672-d138-404e-a143-75193a0d0d3d
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a woman with a salary of $30000, no investment returns, rent of $3000 per month, monthly expenses of $500, and no savings, your financial goal should be retirement. You should start by contributing to a retirement account such as a 401(k) or IRA. If your employer offers a retirement plan, you should contribute at least enough to receive the employer match. If you don't have a retirement plan at work, you should open an IRA account and contribute the maximum amount allowed each year. In addition to retirement savings, you should also have an emergency fund to cover unexpected expenses. You should aim to save at least 3-6 months of living expenses in a savings account or money market fund.

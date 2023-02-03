@@ -1,0 +1,16 @@
+0ecb14f7-be07-4eff-8460-3d4487325159
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a male with a salary of 10000 and have no investment returns, you should try to save as much money as possible. You should try to find a cheaper place to live, and cut back on your monthly expenses. If you have any debts, you should try to pay them off as soon as possible.

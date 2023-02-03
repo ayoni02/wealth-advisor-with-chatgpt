@@ -1,0 +1,16 @@
+1120c419-2993-444a-b799-293bd4f48164
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Based on the information given, the best financial advice for this person would be to save as much money as possible each month. This could be done by cutting back on monthly expenses, such as eating out or changes to a cable TV package. Another suggestion would be to invest in a 529 college savings plan to help reach the goal of paying for education.

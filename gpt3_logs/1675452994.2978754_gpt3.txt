@@ -1,0 +1,16 @@
+c52b410c-6c78-49ed-8ff1-7eb309369228
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Based on the information given, the person's financial goal should be to save money. The best way to save money is to create a budget and stick to it. The person should try to save at least 10% of their salary each month. They should also invest their money wisely, in order to get good returns on their investment.

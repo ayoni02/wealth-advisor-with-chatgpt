@@ -1,0 +1,16 @@
+43fd2aa6-4295-442e-b879-ee7cf97981bc
+imagine a person with the following financial situation;
+
+sex = female
+salary = 20000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a woman earning $20,000 annually, you should focus on building your savings so that you can create more financial stability for yourself. Even if your investment returns are zero, you can still save money by living within your means and carefully budgeting your expenses. Try to reduce your monthly expenses by cutting back on unnecessary costs, and put any extra money you have into savings. This will help you reach your financial goals and build a more secure future for yourself.

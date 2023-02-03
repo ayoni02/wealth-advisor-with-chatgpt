@@ -1,0 +1,16 @@
+06f36fd5-4f1d-4084-8e82-11d1cd995db2
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+There are a few things to consider when giving financial advice to someone in this situation. The first thing to consider is the person's financial goals. If the goal is to save for education, then advice should be given on how to best save and invest money to reach that goal. The next thing to consider is the person's monthly expenses. If the person has little to no monthly expenses, then advice should be given on how to best use that extra money to reach their financial goals. Finally, the last thing to consider is the person's savings. If the person has no savings, then advice should be given on how to best start saving money.

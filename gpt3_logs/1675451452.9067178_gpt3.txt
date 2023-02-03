@@ -1,0 +1,24 @@
+99821648-cf7b-4995-95fa-7260a0eca1b9
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming you would like a list of actionable items: 
+
+-Save: The person should focus on saving as much money as possible each month. They may want to create a budget to help with this. They should also consider automating their savings so that a certain percentage of their salary is automatically deposited into savings each month.
+
+-Invest: The person should focus on investing their money so that they can grow their wealth over time. They may want to consider investing in stocks, mutual funds, and ETFs. They should also consider saving for retirement by contributing to a 401k or IRA.
+
+-Reduce Expenses: The person should focus on reducing their monthly expenses so that they can save more money each month. They may want to create a budget and track their spending to help with this. They may also want to consider reducing their housing costs by downsizing or finding a cheaper apartment.
+
+-Build an Emergency Fund: The person should focus on building an emergency fund so that they have money to cover unexpected expenses. They may want to consider saving $1,000 to start and then increasing the amount they save each month.

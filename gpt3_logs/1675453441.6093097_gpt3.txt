@@ -1,0 +1,16 @@
+395c653f-e043-4e0e-9dcb-02fc8154cb19
+imagine a person with the following financial situation;
+
+sex = male
+salary = 40000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person is employed, they are making a good salary. However, they have no savings and are not making any returns from investments. This person should focus on building up their savings so that they can eventually start their own business. They should budget their monthly expenses so that they can put away money each month into savings. Once they have saved up enough, they can start looking into starting their own business.

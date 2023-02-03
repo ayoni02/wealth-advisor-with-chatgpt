@@ -1,0 +1,16 @@
+d0412f65-d1f8-4c76-8fa2-36ac8bc34f7a
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The individual in question is a woman with a salary of $30,000, no investment returns, renting at $600 per month, and having monthly expenses of $500. Given these circumstances, the best financial advice would be to focus on paying off debts as quickly as possible. One way to do this would be to create a budget and allocate any extra income towards paying off debts. Once debts are paid off, the individual can then focus on saving money and creating a safety net in case of unexpected expenses.

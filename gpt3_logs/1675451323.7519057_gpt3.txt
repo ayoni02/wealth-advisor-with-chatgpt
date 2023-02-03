@@ -1,0 +1,16 @@
+fcca3e59-d775-4b4e-ac06-ce34878a0854
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given that this individual has a monthly income of $20,000 and monthly expenses of $500, they should focus on building up their savings so that they can eventually pay off their debts. One way to do this is to set aside a certain amount of money each month to put towards their savings. Another way to build up savings is to invest money in accounts that offer interest, such as a savings account, certificate of deposit, or money market account.Finally, this individual should try to reduce their monthly expenses by cutting back on unnecessary costs and/or finding ways to increase their income.

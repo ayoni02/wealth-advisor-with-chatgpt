@@ -1,0 +1,16 @@
+71686bff-6185-4016-9dbf-51f59466e74e
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 9000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+There are a few things that this person could do in order to improve their financial situation. One thing that they could do is invest their money in order to try and earn returns from their investment. Another thing that they could do is save their money so that they have money to put towards their financial goals. Finally, they could decrease their monthly expenses so that they have more money to put towards their rent/month and their financial goals.

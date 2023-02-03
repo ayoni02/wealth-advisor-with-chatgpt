@@ -1,0 +1,16 @@
+8c427c19-7dc5-4fca-a070-b246a19ddd8b
+imagine a person with the following financial situation;
+
+sex = male
+salary = 40000
+returns from investment = 0
+rent/month = 4000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+It is important to save money each month in order to reach financial goals. Try to automate saving by setting up a direct deposit from your paycheck into a savings account. Invest in a mix of stocks and bonds in order to get the best return on investment. Try to keep monthly expenses low by budgeting and tracking spending.

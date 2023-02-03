@@ -1,0 +1,16 @@
+9b49a253-bc06-49e4-b849-0c376f6f7e11
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a male with a salary of 20000 and you have no returns from investment, your rent is 8000 and your monthly expenses are 500, you have no savings and your financial goals are other, here is some advice that may help you. Try to save at least 10% of your income each month. If you can afford to, invest in a mutual fund or stock market index fund. Try to pay off any debts that you have as soon as possible. If you have any extra money, consider investing in a 401k or IRA.

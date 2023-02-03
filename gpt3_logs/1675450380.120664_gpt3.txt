@@ -1,0 +1,16 @@
+e2d8172f-16a6-4d3c-9134-dae025871321
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The financial advice for this person would be to create a budget and stick to it in order to get their monthly expenses under control. They should also work on building up their savings so that they have a cushion to fall back on in case of any unforeseen expenses. As for their debt, they should focus on paying off their high interest debts first and then work their way down the list.

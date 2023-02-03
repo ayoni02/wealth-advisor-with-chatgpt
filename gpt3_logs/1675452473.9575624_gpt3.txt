@@ -1,0 +1,16 @@
+9c0143e5-7abf-4e2e-b773-6c3506e6a454
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 6000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+save at least 10% of your salary each month, live below your means, and invest in a 529 college savings plan for your future education goal.

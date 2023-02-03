@@ -1,0 +1,16 @@
+c9675b66-c28d-48b4-b4c3-1eae11739dbd
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+First and foremost, it’s important to develop a budget and goal list. Determine what monthly expenses are and track where the money is being spent. It’s also important to chat with a financial planner to see if the goals are feasible and what different options are available to save money. Lastly, make sure to have an emergency fund saved up in case of any unforeseen circumstances.

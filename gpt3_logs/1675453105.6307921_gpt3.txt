@@ -1,0 +1,16 @@
+54a2303a-7126-485d-b88d-33adf25ab336
+imagine a person with the following financial situation;
+
+sex = female
+salary = 40000
+returns from investment = 0
+rent/month = 7000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a woman with a salary of $40000, rental income of $7000 per month, and monthly expenses of $500, you should focus on paying off your debts as soon as possible. You may want to consider using your savings to pay down your debts, and you should also consider investing in a diversified portfolio of stocks and bonds to help you reach your financial goals.

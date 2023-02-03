@@ -1,0 +1,16 @@
+16d57987-2fb8-4fcf-b712-47a036a0a8cf
+imagine a person with the following financial situation;
+
+sex = female
+salary = 20000
+returns from investment = 0
+rent/month = 2000
+monthly expenses = 500
+savings = 0
+financial goals = car
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The best financial advice for this person would be to save up for their car goal by setting aside money each month. They should also try to invest their money in order to get returns and grow their savings. Additionally, they should try to reduce their monthly expenses by cutting back on unnecessary spending.

@@ -1,0 +1,16 @@
+c263c2c0-e593-4e0b-a06f-bdea0d409491
+imagine a person with the following financial situation;
+
+sex = female
+salary = 30000
+returns from investment = 0
+rent/month = 8000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+The first step is to develop a financial plan and establish financial goals. Once these are determined, you can work on creating a budget and allocating your funds accordingly. You should also make sure to diversify your investments and save regularly to reach your goals.

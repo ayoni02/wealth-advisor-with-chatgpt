@@ -1,0 +1,16 @@
+22637eed-95c6-475b-9a3d-d491f74e9275
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = debts
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Some good financial advice for this person would be to repay any debts as soon as possible, in order to save on interest payments. They should also aim to save up a certain amount of money each month, in order to build up their savings. Additionally, they should try to invest their money in order to earn returns and grow their wealth over time.

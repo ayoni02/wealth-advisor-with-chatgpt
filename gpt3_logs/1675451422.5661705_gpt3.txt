@@ -1,0 +1,16 @@
+be65532c-620b-4900-9e72-d167ff4a1b59
+imagine a person with the following financial situation;
+
+sex = male
+salary = 20000
+returns from investment = 0
+rent/month = 1000
+monthly expenses = 500
+savings = 0
+financial goals = retirement
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Save as much as possible each month. Try to invest in a 401k or other retirement account to get the most out of your money. Live below your means and avoid debt as much as possible.

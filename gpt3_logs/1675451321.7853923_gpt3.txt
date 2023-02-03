@@ -1,0 +1,22 @@
+3c8cde96-9589-4ba9-bb17-9015d09fdcae
+imagine a person with the following financial situation;
+
+sex = female
+salary = 10000
+returns from investment = 0
+rent/month = 9000
+monthly expenses = 500
+savings = 0
+financial goals = other
+
+give good comprehensive financial advice to such a person
+
+==========
+
+1. Invest in a diverse mix of assets to protect against market fluctuations and help grow your wealth over time.
+
+2. Make sure you have an emergency fund to cover unexpected expenses.
+
+3. Try to reduce your monthly expenses by cutting down on unnecessary costs.
+
+4. Consider saving for specific financial goals, such as retirement or buying a home.

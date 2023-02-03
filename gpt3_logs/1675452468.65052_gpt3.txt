@@ -1,0 +1,16 @@
+c8dcb2da-a31a-4b60-9768-0b57dc4149d4
+imagine a person with the following financial situation;
+
+sex = male
+salary = 30000
+returns from investment = 0
+rent/month = 5000
+monthly expenses = 500
+savings = 0
+financial goals = education
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Ideally, the person in this situation should be saving around 10% of their salary each month, which would amount to $300. This could be deposited into a savings account, used to pay down debt, or invested in a longer-term goal such as education. The individual in this situation should also be sure to have an emergency fund that can cover at least 3-6 months of living expenses, in case of a job loss or unexpected expenses.

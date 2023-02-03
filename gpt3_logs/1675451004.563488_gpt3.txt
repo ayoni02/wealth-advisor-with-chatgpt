@@ -1,0 +1,16 @@
+03e167cb-15d5-4ead-9ace-06f03ca06c52
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = vacation
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Assuming this person is living paycheck to paycheck, the first thing I would recommend is creating a budget. This will help to get a better understanding of where their money is going and where they can cut back in order to save. I would also recommend looking into saving strategies, such as setting aside a certain amount of money each paycheck into a savings account. This will help to build up a financial cushion in case of unexpected expenses. Finally, I would recommend creating a plan for their financial goals, such as how much they need to save in order to afford their desired vacation.

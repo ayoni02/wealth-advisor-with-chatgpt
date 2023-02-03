@@ -1,0 +1,16 @@
+beecd254-5cdc-4256-b52f-7bdfee624e56
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 0
+monthly expenses = 500
+savings = 0
+financial goals = business
+
+give good comprehensive financial advice to such a person
+
+==========
+
+If you are a man with a salary of 10000 and no investment returns, you should be saving at least 500 a month. You may want to consider starting a business, in which case you will need to set aside some funds each month to help reach your goal. Alternatively, you could look into renting a property to generate extra income.

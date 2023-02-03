@@ -1,0 +1,16 @@
+bec425d8-5db4-49e1-9c0f-d7b1dc1f23a1
+imagine a person with the following financial situation;
+
+sex = male
+salary = 10000
+returns from investment = 0
+rent/month = 3000
+monthly expenses = 500
+savings = 0
+financial goals = home
+
+give good comprehensive financial advice to such a person
+
+==========
+
+Given the individual's current financial situation and goals, it is recommended that the person save as much money as possible each month. This can be done by cutting expenses where possible and/or increasing income. Once the individual has saved up a significant amount of money, they can then invest it in order to achieve their financial goals.
